@@ -1,0 +1,7 @@
+PBR
+textureAlbedo: ship/Albedo.png
+textureEmissive: ship/Emissive_2.png
+textureNormal: ship/Normal_2.png
+textureRoughness: ship/Roughness.png
+float: uRoughness 1.0
+float: uMetallic 0.0

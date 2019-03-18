@@ -1,0 +1,7 @@
+PBR
+textureAlbedo: pbr/Metal22_col.jpg
+textureRoughness: pbr/Metal22_rgh.jpg
+textureMetallic: pbr/Metal22_met.jpg
+textureNormal: pbr/Metal22_nrm.jpg
+float: uRoughness 1.0
+float: uMetallic 1.0

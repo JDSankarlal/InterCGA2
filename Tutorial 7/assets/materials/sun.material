@@ -1,0 +1,5 @@
+PBR
+textureAlbedo: black.png
+textureEmissive: yellow.png
+float: uRoughness 1.0
+float: uMetallic 0.0

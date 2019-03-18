@@ -1,0 +1,4 @@
+PBR
+textureAlbedo: 8k_saturn.jpg
+float: uRoughness 0.8
+float: uMetallic 0.0
