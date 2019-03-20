@@ -1,6 +1,0 @@
-PBR
-textureAlbedo: FloorDiffuse.png
-textureRoughness: FloorRgh.png
-textureNormal: FloorNormal.png
-float: uRoughness 1.0
-float: uMetallic 0.0

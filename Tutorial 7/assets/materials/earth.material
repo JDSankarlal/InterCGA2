@@ -1,6 +1,0 @@
-PBR
-textureAlbedo: earth.jpg
-textureEmissive: earthEmissive.png
-textureRoughness: earthRgh.png
-float: uRoughness 1.0
-float: uMetallic 0.0
